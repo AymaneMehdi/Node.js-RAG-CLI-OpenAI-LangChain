@@ -1,0 +1,24 @@
+{
+  "name": "node.js-rag-cli-openai-langchain",
+  "version": "1.0.0",
+  "description": "A clean CLI-based Retrieval-Augmented Generation (RAG) system built with Node.js and LangChain. It loads documents, performs semantic search using embeddings, and generates accurate answers using an LLM.",
+  "homepage": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-LangChain#readme",
+  "bugs": {
+    "url": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-LangChain/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-LangChain.git"
+  },
+  "license": "ISC",
+  "author": "Aymane Mehdi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.35.0"
+  }
+}
